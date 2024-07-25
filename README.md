@@ -3,6 +3,11 @@ ONMI Informal Inter-SDO Open Model Initiative (IISOMI)
 
 IISOMI is an open source project founded by UML model designers from various SDOs (Standards Development Organizations) like ETSI NFV, ITU-T, MEF, ONAP, former ONF and TM Forum. The goal is to develop guidelines and tools for a harmonized modeling infrastructure that is not specific to any SDO, technology or management protocol and can then be used by all SDOs.
 
+## Meeting Links
+Link to the ONMI [Zoom Meetings Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/onmi-project)<br>
+Link to [IISOMI Meetings](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-home/wiki/IISOMI-Meetings-Calendar#meetings)
+
+## Specification Area
 Protocol neutral area ([onmi-iisomi-uml-common](https://github.com/Open-Network-Models-and-Interfaces-ONMI/onmi-iisomi-uml-common)):
 * UML Modelling Guidelines
 * UML Profiles and Style Sheets
